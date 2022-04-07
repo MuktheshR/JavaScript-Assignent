@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\HTML Assignment File"
+		},
+		{
+			"path": "..\\..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\JavaScript new"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Html5 & Css 3"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\ES6 and TypeScript"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Es6&Ts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS"
+	}
+}
